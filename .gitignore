@@ -1,0 +1,6 @@
+quotes_scraper_venv/
+__pycache__/
+*.pyc
+quotes_scraper.log
+Thumbs.db
+.DS_Store
