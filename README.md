@@ -74,12 +74,12 @@ ___
 ```text
 quotes-scraper/
 ├── quotes_scraper.py      # Main script (scraping)
-├── requirements.txt      # Python dependencies
+├── requirements.txt       # Python dependencies
 ├── Quotes_scraping.csv    # Sample output (cleaned)
 ├── Attached_files/        # Output screenshots
-├── LICENSE               # License file
-├── .gitignore            # Git ignore rules
-└── README.md             # Project documentation
+├── LICENSE                # License file
+├── .gitignore             # Git ignore rules
+└── README.md              # Project documentation
 ```
 ___
 
